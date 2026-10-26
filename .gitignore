@@ -11,6 +11,7 @@ statement-categorizer-frontend/node_modules
 statement-categorizer-frontend/dist
 statement-categorizer-frontend/dist-ssr
 statement-categorizer-frontend/*.local
+statement-categorizer-backend/__pycache__/
 
 # Editor directories and files
 .vscode/*
